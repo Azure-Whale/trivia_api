@@ -10,7 +10,7 @@ This project is a game where users can test their knowledge answering trivia que
 ## Getting Started
 
 ### Installing Dependencies
-Developers using this project should already have Python3, pip, node, and npm installed.
+Python3, pip, node, and npm
 
 #### Frontend Dependencies
 
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ## Running the Frontend in Dev Mode
 
-The frontend app was built using create-react-app. In order to run the app in development mode use ```npm start```. You can change the script in the ```package.json``` file. 
+In order to run the app in development mode use ```npm start```. You can change the script in the ```package.json``` file. 
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser. The page will reload if you make edits.<br>
 
